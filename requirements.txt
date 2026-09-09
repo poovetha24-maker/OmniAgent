@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+sqlalchemy-cockroachdb
+psycopg2-binary
+python-dotenv
+sentence-transformers
+boto3
